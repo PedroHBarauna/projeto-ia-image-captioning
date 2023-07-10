@@ -2,7 +2,7 @@
 
 Este é um repositório que contém um projeto de geração de descrições de obras de arte para deficientes visuais, utilizando técnicas de processamento de linguagem natural (NLP) e visão computacional. O objetivo principal é proporcionar uma experiência sobre obras de arte para pessoas com deficiência visual.
 
-Link do vídeo explicado: 
+Link do vídeo explicado: https://youtu.be/ylKJEK5oU6g
 
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades principais:
